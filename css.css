@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.field{
+    height: 50vh;
+    width: 25vw;
+    border: 1px solid black;
+
+    position: relative;
+}
